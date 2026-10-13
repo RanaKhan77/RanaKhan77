@@ -40,7 +40,7 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 ```
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed platform
-The full **232-module engine** with continuous hack monitoring, attack-surface diffing and
+The full **252-module engine** with continuous hack monitoring, attack-surface diffing and
 redacted customer reporting — for teams that want the firepower without hosting it.
 
 ---
