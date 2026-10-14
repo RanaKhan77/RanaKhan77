@@ -29,14 +29,14 @@ CVSS-scored reports, zero AI lock-in, zero token billing.
 
 | | |
 |---|---|
-| 🧩 **275 scanner modules** | SQLi · XSS · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 |
+| 🧩 **200 scanner modules** | SQLi · XSS · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 |
 | 🤖 **AI-stack security** | MCP server auditing · LLM Top-10 exposure · agent panels · leaked AI keys |
 | 📄 **Evidence-backed reports** | CVSS-scored findings, HTML/PDF, technical + customer variants |
 | 🏠 **100% self-hosted** | One Docker command — no API keys, no token billing, no vendor lock |
 | ⚔️ **Battle-tested** | False-positive guards, soft-404 baselining, WAF detection, ownership gating |
 
 ```bash
-git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 275-module security lab
+git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 200-module security lab
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
