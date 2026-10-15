@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="assets/profile-banner.jpg" width="100%" alt="Rana Khan — Security Researcher · Web Pentester · Founder of 2MNY" />
+<img src="assets/profile-banner.jpg" width="100%" alt="Rana Khan — Cybersecurity Protector · Founder of 2MNY Security" />
 
 # 👋 Rana Khan
 
-### 🛡️ Security Researcher · Web Pentester · Founder of [2MNY Security](https://2mny.com)
+### 🛡️ Cybersecurity Protector · Security Researcher · Founder of [2MNY Security](https://2mny.com)
 
-**I build hacking tools that run on *your* hardware** — deterministic engines, evidence-backed findings,
-CVSS-scored reports, zero AI lock-in, zero token billing.
+**I build cybersecurity protection tools that run on *your* own hardware** — deterministic engines,
+evidence-backed findings, CVSS-scored reports, zero AI lock-in, zero token billing.
+
+🌍 *My mission: help keep the cyber world safe from attackers. Every tool I build exists to protect
+people, teams and communities — and I'm proud to contribute to a safer digital Bangladesh and a
+safer internet for everyone.*
 
 &nbsp;
 
 [![Website](https://img.shields.io/badge/🌐_2MNY_Security-2mny.com-00C853?style=for-the-badge)](https://2mny.com)
-[![Free Scan](https://img.shields.io/badge/⚡_Free_Scan-Test_Your_Site-FF5722?style=for-the-badge)](https://2mny.com/free-security-scan)
+[![Free Scan](https://img.shields.io/badge/⚡_Free_Scan-Protect_Your_Site-FF5722?style=for-the-badge)](https://2mny.com/free-security-scan)
 [![Blog](https://img.shields.io/badge/📖_Security_Blog-Guides_&_Research-2196F3?style=for-the-badge)](https://2mny.com/blog)
 [![GitHub](https://img.shields.io/badge/⭐_Star_My_Work-RanaKhan77-181717?style=for-the-badge)](https://github.com/RanaKhan77?tab=repositories)
 
@@ -22,25 +26,29 @@ CVSS-scored reports, zero AI lock-in, zero token billing.
 
 ---
 
-## 🚀 What I'm Building
+## 🎯 What I Protect
 
-### 🔥 [Website Vulnerability Scanner — Community Edition](https://github.com/RanaKhan77/Website-Vulnerability-Scanner)
-**The largest fully-deterministic, self-hostable web vulnerability scanning suite ever open-sourced.**
+Building protection tools that find weaknesses **before attackers do** — so website owners can fix
+them first. Everything is defensive: detection, evidence, and a clear fix plan. Nothing I build is
+for attacking anyone.
+
+### 🚀 [Website Vulnerability Scanner — Community Edition](https://github.com/RanaKhan77/Website-Vulnerability-Scanner)
+**The largest fully-deterministic, self-hostable website protection suite ever open-sourced.**
 
 | | |
 |---|---|
-| 🧩 **200 scanner modules** | SQLi · XSS · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 |
-| 🤖 **AI-stack security** | MCP server auditing · LLM Top-10 exposure · agent panels · leaked AI keys |
+| 🧩 **200 scanner modules** | Finds XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 risks |
+| 🤖 **AI-stack safety** | MCP server auditing · LLM Top-10 exposure · agent panels · leaked AI keys |
 | 📄 **Evidence-backed reports** | CVSS-scored findings, HTML/PDF, technical + customer variants |
 | 🏠 **100% self-hosted** | One Docker command — no API keys, no token billing, no vendor lock |
 | ⚔️ **Battle-tested** | False-positive guards, soft-404 baselining, WAF detection, ownership gating |
 
 ```bash
-git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 200-module security lab
+git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 200-module protection lab
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
-**A hand-curated, license-verified map of 438 free cybersecurity tools — built for discovery.**
+**A hand-curated, license-verified map of 438 free cybersecurity protection tools — built for discovery.**
 
 | | |
 |---|---|
@@ -49,23 +57,23 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 | 🆓 **100% free** | No paywalls, no AI-gated entries, no sponsored placements |
 | 🔄 **Quarterly re-verification** | Dead links swept, activity re-checked, standards enforced |
 
-⭐ *If you hunt bugs or defend systems, this is the shortcut list.* — [browse the realms →](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
+⭐ *If you defend systems for a living — or you're learning to — this is the shortcut list.* — [browse the realms →](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
 
-### 🌐 [2MNY Security](https://2mny.com) — the managed platform
-The full **282-module engine** with continuous hack monitoring, attack-surface diffing and
-redacted customer reporting — for teams that want the firepower without hosting it.
+### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
+The full **282-module engine** with continuous attack monitoring, attack-surface diffing and
+redacted customer reporting — protecting teams that want the coverage without hosting it themselves.
 
 ---
 
-## 🧰 Arsenal & Focus
+## 🧰 Protection Focus
 
 ```text
-🔓 Web App Security    XSS · SQLi · SSRF · IDOR · Auth flaws · Race conditions
-📡 Attack Surface      Subdomain takeover · Recon · Certificate mining · JS secrets
-🤖 AI Security         MCP · LLM gateways · Agent endpoints · Vector DB exposure
-🏗 CMS & Frameworks    WordPress · Laravel · Django · Rails · Joomla · Magento
-🔗 Supply Chain        OSV matching · Outdated components · Dependency risk
-🕵️ Threat Intel        Infostealer leaks · Defacement · Darkweb monitoring
+🛡️ Web App Protection    Finds XSS · SQLi · SSRF · IDOR · auth flaws · race conditions — first
+🔭 Attack-Surface Guard  Subdomain takeover · cert mining · exposed JS secrets · recon exposure
+🤖 AI Stack Safety       MCP servers · LLM gateways · agent endpoints · vector DB exposure
+🏗 CMS & Frameworks      WordPress · Laravel · Django · Rails · Joomla · Magento
+🔗 Supply Chain Safety   OSV matching · outdated components · dependency risk
+📡 Threat Monitoring     Infostealer leaks · defacement watch · ransomware tracking
 ```
 
 &nbsp;
@@ -89,37 +97,30 @@ redacted customer reporting — for teams that want the firepower without hostin
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 The Work, By Numbers
 
 <div align="center">
 
-<a href="https://github.com/RanaKhan77">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RanaKhan77&show_icons=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark&rank_icon=github" alt="GitHub stats" />
-</a>
-<a href="https://github.com/RanaKhan77">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RanaKhan77&hide_border=true&theme=chartreuse-dark" alt="GitHub streak" />
-</a>
-<br/>
-<a href="https://github.com/RanaKhan77">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaKhan77&layout=compact&hide_border=true&theme=chartreuse-dark&langs_count=8" alt="Top languages" />
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=RanaKhan77&theme=matrix&no-frame=true&no-title=true&column=4&margin-w=8" alt="GitHub trophies" />
-</a>
+![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-282-00C853?style=for-the-badge)
+![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-200-2196F3?style=for-the-badge)
+![Tools_Curated](https://img.shields.io/badge/Tools_Curated-438-FF6F00?style=for-the-badge)
+![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RanaKhan77&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaKhan77&layout=compact&hide_border=true&theme=chartreuse-dark&langs_count=8" alt="Top languages" />
 
 </div>
 
 ---
 
-## 🛡️ Philosophy
+## 🛡️ Principles
 
 > **Deterministic beats probabilistic in security.** Same target → same findings, every run.
 > Evidence a CISO can defend in court — not "the model said so."
 
+- 🛡️ **Protection first** — every scanner, every list, every guide exists to keep people safe from attackers
 - 🔓 Open source where it matters, honest telemetry over fake DRM
-- 🎯 Ownership-gated intrusive testing — scan responsibly, prove authorization
+- 🎯 Ownership-gated intrusive testing — authorize properly, test responsibly
+- 🇧🇩 Building from Bangladesh for the world — and giving back along the way
 - 🔁 Ship daily, verify everything, measure what actually protects people
 
 ---
@@ -129,13 +130,13 @@ redacted customer reporting — for teams that want the firepower without hostin
 ### 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/📧_Email-2MNY_Security-D14836?style=for-the-badge)](https://2mny.com/contact)
-[![Report a Vuln](https://img.shields.io/badge/🐛_Report_a_Vulnerability-Responsible_Disclosure-8B0000?style=for-the-badge)](https://2mny.com/contact)
+[![Report a Vuln](https://img.shields.io/badge/🐞_Report_a_Vulnerability-Responsible_Disclosure-8B0000?style=for-the-badge)](https://2mny.com/contact)
 [![Community License](https://img.shields.io/badge/🔑_Free_License-Key_Instantly-00C853?style=for-the-badge)](https://2mny.com/community-license)
 
 &nbsp;
 
-**⭐ If my tools caught a bug for you — star the repo, it keeps the roadmap funded. ⭐**
+**⭐ If my tools helped protect your site — star the repo, it keeps the mission funded. ⭐**
 
-<sub>Built with stubborn engineering discipline · 🇧🇩 Bangladesh → 🌍</sub>
+<sub>Built with stubborn engineering discipline · 🇧🇩 Bangladesh → 🌍 A safer web for everyone</sub>
 
 </div>
