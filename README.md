@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RanaKhan77/Website-Vulnerability-Scanner/main/docs/assets/banner.jpg" width="100%" alt="2MNY Security — Website Vulnerability Scanner" />
+<img src="assets/profile-banner.jpg" width="100%" alt="Rana Khan — Security Researcher · Web Pentester · Founder of 2MNY" />
 
 # 👋 Rana Khan
 
@@ -40,11 +40,11 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
-**A hand-curated, license-verified map of 160+ free cybersecurity tools — built for discovery.**
+**A hand-curated, license-verified map of 438 free cybersecurity tools — built for discovery.**
 
 | | |
 |---|---|
-| 🏰 **12 themed realms** | Pentest arsenal · hardening · threat intel · OSINT · DFIR · DevSecOps · AI security |
+| 🏰 **14 themed realms** | Pentest arsenal · hardening · threat intel · OSINT · DFIR · DevSecOps · AI security |
 | 🔬 **License-verified** | Every flagship entry checked via GitHub API — copyleft/freemium tagged inline |
 | 🆓 **100% free** | No paywalls, no AI-gated entries, no sponsored placements |
 | 🔄 **Quarterly re-verification** | Dead links swept, activity re-checked, standards enforced |
@@ -52,7 +52,7 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 ⭐ *If you hunt bugs or defend systems, this is the shortcut list.* — [browse the realms →](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed platform
-The full **275+ module engine** with continuous hack monitoring, attack-surface diffing and
+The full **282-module engine** with continuous hack monitoring, attack-surface diffing and
 redacted customer reporting — for teams that want the firepower without hosting it.
 
 ---
