@@ -60,7 +60,7 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 ⭐ *If you defend systems for a living — or you're learning to — this is the shortcut list.* — [browse the realms →](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
-The full **282-module engine** with continuous attack monitoring, attack-surface diffing and
+The full **285-module engine** with continuous attack monitoring, attack-surface diffing and
 redacted customer reporting — protecting teams that want the coverage without hosting it themselves.
 
 ---
