@@ -60,8 +60,11 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 ⭐ *If you defend systems for a living — or you're learning to — this is the shortcut list.* — [browse the realms →](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
+<a href="https://2mny.com"><img src="assets/2mny-globe-banner.jpg" width="820" alt="2MNY Security — free website security scanning platform · 2mny.com" /></a>
+
 The full **285-module engine** with continuous attack monitoring, attack-surface diffing and
 redacted customer reporting — protecting teams that want the coverage without hosting it themselves.
+Run the free instant check at **[2mny.com](https://2mny.com)** — no signup needed.
 
 ---
 
@@ -101,7 +104,7 @@ redacted customer reporting — protecting teams that want the coverage without 
 
 <div align="center">
 
-![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-282-00C853?style=for-the-badge)
+![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-285-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-200-2196F3?style=for-the-badge)
 ![Tools_Curated](https://img.shields.io/badge/Tools_Curated-438-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
