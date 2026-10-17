@@ -48,7 +48,7 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
-**A hand-curated, license-verified map of 438 free cybersecurity protection tools — built for discovery.**
+**A hand-curated, license-verified map of 444 free cybersecurity protection tools — built for discovery.**
 
 | | |
 |---|---|
@@ -106,7 +106,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 
 ![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-285-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-200-2196F3?style=for-the-badge)
-![Tools_Curated](https://img.shields.io/badge/Tools_Curated-438-FF6F00?style=for-the-badge)
+![Tools_Curated](https://img.shields.io/badge/Tools_Curated-444-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaKhan77&layout=compact&hide_border=true&theme=chartreuse-dark&langs_count=8" alt="Top languages" />
