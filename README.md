@@ -59,6 +59,21 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 
 ⭐ *If you defend systems for a living — or you're learning to — this is the shortcut list.* — [browse the realms →](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
 
+### ⚡ [2MNY Security Scan](https://github.com/marketplace/actions/2mny-security-scan) — GitHub Action
+**Free CI security checks on every push — one line in your workflow.**
+
+| | |
+|---|---|
+| 🔍 **What it checks** | TLS/SSL health · security headers (HSTS/CSP) · cookie flags |
+| 📄 **What you get** | A full evidence-backed report from 2mny.com, right in your Actions log |
+| 🆓 **Cost** | Free — public repos, no API keys, no setup beyond one line |
+
+```yaml
+- uses: RanaKhan77/2mny-security-scan@v1
+  with:
+    target: https://example.com
+```
+
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
 <a href="https://2mny.com"><img src="assets/2mny-globe-banner.jpg" width="820" alt="2MNY Security — free website security scanning platform · 2mny.com" /></a>
 
