@@ -57,6 +57,8 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 | 🧠 **Zero AI, on purpose** | Deterministic three-state verdicts: exposed / clear / unavailable — a dead source never fakes a pass |
 | 🔐 **Privacy by design** | Salted hashes + masked identifiers only; password checks match in your browser (k-anonymity) |
 | 📄 **Evidence reports** | Printable per-source report with honest 0–100 exposure score — [live landing page →](https://ranakhan77.github.io/Exposure-Check-OSINT/) |
+| 📤 **Data out (v1.1)** | JSON + CSV export for every check · confidence-tiered username hits (confirmed vs probable) |
+| 🩺 **ec:doctor (v1.1)** | One-command install self-test: 18-source reachability, storage, database, migrations — seconds, zero network cost |
 
 ```bash
 git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what attackers already know
@@ -135,7 +137,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 
 <div align="center">
 
-![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-285-00C853?style=for-the-badge)
+![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-287-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-200-2196F3?style=for-the-badge)
 ![Tools_Curated](https://img.shields.io/badge/Tools_Curated-Almost_500-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
