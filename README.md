@@ -47,6 +47,21 @@ for attacking anyone.
 git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 200-module protection lab
 ```
 
+### 🕵️ [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT)
+**Self-hosted personal exposure checker — is your email, username, phone or password leaked?**
+
+| | |
+|---|---|
+| 🔎 **18 keyless sources** | Breach collections · infostealer logs · COMB 11B+ credentials · HIBP k-anonymity · 150-platform username grid |
+| 🔑 **Zero API keys** | No accounts, no rate-limit roulette, no telemetry — one Docker command and it runs |
+| 🧠 **Zero AI, on purpose** | Deterministic three-state verdicts: exposed / clear / unavailable — a dead source never fakes a pass |
+| 🔐 **Privacy by design** | Salted hashes + masked identifiers only; password checks match in your browser (k-anonymity) |
+| 📄 **Evidence reports** | Printable per-source report with honest 0–100 exposure score — [live landing page →](https://ranakhan77.github.io/Exposure-Check-OSINT/) |
+
+```bash
+git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what attackers already know
+```
+
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
 **A hand-curated, license-verified map of almost 500 free cybersecurity protection tools — built for discovery.**
 
@@ -77,7 +92,7 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
 <a href="https://2mny.com"><img src="assets/2mny-globe-banner.jpg" width="820" alt="2MNY Security — free website security scanning platform · 2mny.com" /></a>
 
-The full **285-module engine** with continuous attack monitoring, attack-surface diffing and
+The full **287-module engine** with continuous attack monitoring, attack-surface diffing and
 redacted customer reporting — protecting teams that want the coverage without hosting it themselves.
 Run the free instant check at **[2mny.com](https://2mny.com)** — no signup needed.
 
@@ -92,6 +107,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 🏗 CMS & Frameworks      WordPress · Laravel · Django · Rails · Joomla · Magento
 🔗 Supply Chain Safety   OSV matching · outdated components · dependency risk
 📡 Threat Monitoring     Infostealer leaks · defacement watch · ransomware tracking
+🕵️ Personal Exposure     Email/username/phone/password/IP leak checks · breach & stealer-log intel
 ```
 
 &nbsp;
