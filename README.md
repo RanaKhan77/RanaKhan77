@@ -37,14 +37,14 @@ for attacking anyone.
 
 | | |
 |---|---|
-| 🧩 **200 scanner modules** | Finds XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 risks |
+| 🧩 **201 scanner modules** | Finds XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 risks |
 | 🤖 **AI-stack safety** | MCP server auditing · LLM Top-10 exposure · agent panels · leaked AI keys |
 | 📄 **Evidence-backed reports** | CVSS-scored findings, HTML/PDF, technical + customer variants |
 | 🏠 **100% self-hosted** | One Docker command — no API keys, no token billing, no vendor lock |
 | ⚔️ **Battle-tested** | False-positive guards, soft-404 baselining, WAF detection, ownership gating |
 
 ```bash
-git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 200-module protection lab
+git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 201-module protection lab
 ```
 
 ### 🕵️ [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT)
@@ -138,7 +138,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 <div align="center">
 
 ![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-290-00C853?style=for-the-badge)
-![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-200-2196F3?style=for-the-badge)
+![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-201-2196F3?style=for-the-badge)
 ![Tools_Curated](https://img.shields.io/badge/Tools_Curated-496-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
