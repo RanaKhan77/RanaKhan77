@@ -65,7 +65,7 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
-**A hand-curated, license-verified map of 496 free cybersecurity protection tools — built for discovery.**
+**A hand-curated, license-verified map of 498 free cybersecurity protection tools — built for discovery.**
 
 | | |
 |---|---|
@@ -121,7 +121,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 ![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2498ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -139,7 +139,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 
 ![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-290-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-201-2196F3?style=for-the-badge)
-![Tools_Curated](https://img.shields.io/badge/Tools_Curated-496-FF6F00?style=for-the-badge)
+![Tools_Curated](https://img.shields.io/badge/Tools_Curated-498-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaKhan77&layout=compact&hide_border=true&theme=chartreuse-dark&langs_count=8" alt="Top languages" />
