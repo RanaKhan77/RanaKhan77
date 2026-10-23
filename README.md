@@ -52,7 +52,7 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 
 | | |
 |---|---|
-| 🔎 **21 keyless sources** | Breach collections · infostealer logs · COMB 11B+ credentials · HIBP k-anonymity · 150-platform username grid |
+| 🔎 **22 keyless sources** | Breach collections · infostealer logs · COMB 11B+ credentials · HIBP k-anonymity · 150-platform username grid |
 | 🔑 **Zero API keys** | No accounts, no rate-limit roulette, no telemetry — one Docker command and it runs |
 | 🧠 **Zero AI, on purpose** | Deterministic three-state verdicts: exposed / clear / unavailable — a dead source never fakes a pass |
 | 🔐 **Privacy by design** | Salted hashes + masked identifiers only; password checks match in your browser (k-anonymity) |
