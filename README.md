@@ -94,7 +94,7 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
 <a href="https://2mny.com"><img src="assets/2mny-globe-banner.jpg" width="820" alt="2MNY Security — free website security scanning platform · 2mny.com" /></a>
 
-The full **290-module engine** with continuous attack monitoring, attack-surface diffing and
+The full **291-module engine** with continuous attack monitoring, attack-surface diffing and
 redacted customer reporting — protecting teams that want the coverage without hosting it themselves.
 Run the free instant check at **[2mny.com](https://2mny.com)** — no signup needed.
 
@@ -137,7 +137,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 
 <div align="center">
 
-![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-290-00C853?style=for-the-badge)
+![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-291-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-201-2196F3?style=for-the-badge)
 ![Tools_Curated](https://img.shields.io/badge/Tools_Curated-519-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
@@ -165,7 +165,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 
 ### 🌱 Currently Building
 
-The **290-module managed platform** at [2mny.com](https://2mny.com) — plus the next Community Edition batch.
+The **291-module managed platform** at [2mny.com](https://2mny.com) — plus the next Community Edition batch.
 Questions or ideas? Use the [Community Discussions](https://github.com/RanaKhan77/Website-Vulnerability-Scanner/discussions).
 
 ### 🤝 Let's Connect
