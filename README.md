@@ -100,6 +100,20 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 
 ---
 
+### 🇧🇩 [Awesome Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh)
+**The curated map of Bangladesh's open source, open data and free APIs — community-built.**
+
+| | |
+|---|---|
+| 📚 **What it is** | 200+ verified entries across 13 sections — datasets, Bangla NLP, fintech SDKs, civic tech, crisis-response tools |
+| ✅ **Evidence-first curation** | Every entry live-verified with licence + Bangladesh-connection evidence; no star counts, no fluff |
+| 📖 **Deep-dive guides** | 13 section handbooks with editor's picks, plus a [super-SEO showcase site](https://ranakhan77.github.io/Awesome-Bangladesh/) |
+| 🤝 **Community-built** | Open contributions with a firm verification process — suggest, verify, correct |
+
+⭐ *The national directory for Bangladeshi developers — built to connect the whole ecosystem.* — [explore the list →](https://github.com/RanaKhan77/Awesome-Bangladesh)
+
+---
+
 ## 🧰 Protection Focus
 
 ```text
