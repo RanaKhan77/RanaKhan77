@@ -37,14 +37,14 @@ for attacking anyone.
 
 | | |
 |---|---|
-| 🧩 **298 scanner modules** | Finds XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 risks |
+| 🧩 **202 scanner modules** | Finds XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 risks |
 | 🤖 **AI-stack safety** | MCP server auditing · LLM Top-10 exposure · agent panels · leaked AI keys |
 | 📄 **Evidence-backed reports** | CVSS-scored findings, HTML/PDF, technical + customer variants |
 | 🏠 **100% self-hosted** | One Docker command — no API keys, no token billing, no vendor lock |
 | ⚔️ **Battle-tested** | False-positive guards, soft-404 baselining, WAF detection, ownership gating |
 
 ```bash
-git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 298-module protection lab
+git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 202-module protection lab
 ```
 
 ### 🕵️ [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT)
