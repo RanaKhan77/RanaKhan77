@@ -156,7 +156,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 ![Tools_Curated](https://img.shields.io/badge/Tools_Curated-519-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaKhan77&layout=compact&hide_border=true&theme=chartreuse-dark&langs_count=8" alt="Top languages" />
+<img height="170" src="assets/top-langs.svg" alt="Top languages" />
 
 </div>
 
