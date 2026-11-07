@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Thanks for visiting — Rana Khan, security researcher and bug bounty hunter. Contact: 2mny.com and LinkedIn /in/ranakhan">
+  <defs>
+    <pattern id="fgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#1a2333" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <linearGradient id="faccent" gradientUnits="userSpaceOnUse" x1="430" y1="112" x2="770" y2="112">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#00d9a6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background + grid -->
+  <rect x="0.5" y="0.5" width="1199" height="189" rx="16" fill="#0d1117" stroke="#293548" stroke-width="1"/>
+  <rect x="1" y="1" width="1198" height="188" rx="15.5" fill="url(#fgrid)"/>
+
+  <!-- viewfinder corner brackets -->
+  <g fill="none" stroke="#30363d" stroke-width="2.5" opacity="0.9">
+    <path d="M 30 62 V 44 Q 30 30 44 30 H 62"/>
+    <path d="M 1138 30 H 1156 Q 1170 30 1170 44 V 62"/>
+    <path d="M 30 128 V 146 Q 30 160 44 160 H 62"/>
+    <path d="M 1170 128 V 146 Q 1170 160 1156 160 H 1138"/>
+  </g>
+
+  <!-- heartbeat / signal line: traveling pulse -->
+  <path d="M380,48 H452 l12,-8 l8,16 l14,-8 h34 l12,-30 l14,64 l12,-34 h86 l12,-8 l8,16 l14,-8 H820" fill="none" stroke="#1f2d3d" stroke-width="2"/>
+  <path d="M380,48 H452 l12,-8 l8,16 l14,-8 h34 l12,-30 l14,64 l12,-34 h86 l12,-8 l8,16 l14,-8 H820" fill="none" stroke="#00d9a6" stroke-width="2.5" pathLength="1000" stroke-dasharray="70 930" stroke-dashoffset="1000">
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <circle r="8" fill="#00d9a6" opacity="0.25">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M380,48 H452 l12,-8 l8,16 l14,-8 h34 l12,-30 l14,64 l12,-34 h86 l12,-8 l8,16 l14,-8 H820"/>
+  </circle>
+  <circle r="4" fill="#00d9a6">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M380,48 H452 l12,-8 l8,16 l14,-8 h34 l12,-30 l14,64 l12,-34 h86 l12,-8 l8,16 l14,-8 H820"/>
+  </circle>
+
+  <!-- main line -->
+  <text x="600" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="650" fill="#e6edf3">Thanks for visiting — let's build a <tspan fill="url(#faccent)">safer web</tspan></text>
+
+  <!-- contact chips -->
+  <g>
+    <rect x="340" y="134" width="230" height="40" rx="20" fill="#161b22" stroke="#00d9a6" stroke-width="1.2">
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="352" y="146" width="4" height="16" rx="2" fill="#00d9a6"/>
+    <text x="455" y="160" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="18" fill="#00d9a6">2mny.com</text>
+  </g>
+  <g>
+    <rect x="590" y="134" width="270" height="40" rx="20" fill="#161b22" stroke="#58a6ff" stroke-width="1.2">
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="602" y="146" width="4" height="16" rx="2" fill="#58a6ff"/>
+    <text x="725" y="159" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#58a6ff">linkedin.com/in/ranakhan</text>
+  </g>
+</svg>

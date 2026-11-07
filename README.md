@@ -1,50 +1,60 @@
 <div align="center">
 
-<img src="assets/profile-banner.jpg" width="100%" alt="Rana Khan — Cybersecurity Protector · Founder of 2MNY Security" />
+<img src="assets/header.svg" width="100%" alt="Rana Khan — security researcher and bug bounty hunter from Bangladesh, founder of 2mny.com — animated radar scanner banner" />
 
 # 👋 Rana Khan
 
-### 🛡️ Cybersecurity Protector · Security Researcher · Founder of [2MNY Security](https://2mny.com)
+### 🛡️ Security Researcher · Bug Bounty Hunter · Founder of [2mny.com](https://2mny.com)
 
-**I build cybersecurity protection tools that run on *your* own hardware** — deterministic engines,
-evidence-backed findings, CVSS-scored reports, zero AI lock-in, zero token billing.
-
-🌍 *My mission: help keep the cyber world safe from attackers. Every tool I build exists to protect
-people, teams and communities — and I'm proud to contribute to a safer digital Bangladesh and a
-safer internet for everyone.*
-
-&nbsp;
+**I find weaknesses before attackers do.** I'm a security researcher from **Bangladesh 🇧🇩** hunting
+web vulnerabilities — and building the tools that make hunting repeatable: the **317-module bug bounty
+platform & commercial scanner** at [2mny.com](https://2mny.com), open-source scanners, and OSINT that
+shows what attackers already know. Everything I build is defensive: detect it, prove it, fix it first.
 
 [![Website](https://img.shields.io/badge/🌐_2MNY_Security-2mny.com-00C853?style=for-the-badge)](https://2mny.com)
 [![Free Scan](https://img.shields.io/badge/⚡_Free_Scan-Protect_Your_Site-FF5722?style=for-the-badge)](https://2mny.com/free-security-scan)
 [![Blog](https://img.shields.io/badge/📖_Security_Blog-Guides_&_Research-2196F3?style=for-the-badge)](https://2mny.com/blog)
 [![GitHub](https://img.shields.io/badge/⭐_Star_My_Work-RanaKhan77-181717?style=for-the-badge)](https://github.com/RanaKhan77?tab=repositories)
-
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-ranakhan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ranakhan/)
 
 </div>
 
 ---
 
-## 🎯 What I Protect
+## 🔭 What I Do
 
-Building protection tools that find weaknesses **before attackers do** — so website owners can fix
-them first. Everything is defensive: detection, evidence, and a clear fix plan. Nothing I build is
-for attacking anyone.
+<div align="center">
+
+| | Focus | In practice |
+|:---:|:---|:---|
+| 🎯 | **Web Vulnerability Scanning** | XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 — CVSS-scored, evidence-backed |
+| ⚡ | **Bug Bounty Automation** | Recon pipelines & deterministic engines that compress triage from days to minutes |
+| 🕵️ | **OSINT & Exposure Intel** | Breach collections, stealer logs, username grids — know exactly what's already exposed |
+
+</div>
+
+---
+
+## 🛡️ What I've Built
+
+Everything below is protection tooling — it finds weaknesses **before attackers do**, so website
+owners can fix them first. Detection, evidence, and a clear fix plan. Nothing I build is for
+attacking anyone.
 
 ### 🚀 [Website Vulnerability Scanner — Community Edition](https://github.com/RanaKhan77/Website-Vulnerability-Scanner)
 **The only web scanner that shows you what it did NOT check — fully-deterministic, self-hostable protection.**
 
 | | |
 |---|---|
-| 🧩 **217 scanner modules** | Finds XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 risks |
+| 🧩 **218 scanner modules** | Finds XSS · SQLi · SSRF · SSTI · command injection · subdomain takeover · OWASP Top 10 risks |
 | 🤖 **AI-stack safety** | MCP server auditing · LLM Top-10 exposure · agent panels · leaked AI keys |
 | 📄 **Evidence-backed reports** | CVSS-scored findings, HTML/PDF, technical + customer variants |
 | 🏠 **100% self-hosted** | One Docker command — no API keys, no token billing, no vendor lock |
 | ⚔️ **Battle-tested** | False-positive guards, soft-404 baselining, WAF detection, ownership gating |
+| ⚖️ **Truly open** | Apache-2.0 core, MIT tools only — free forever |
 
 ```bash
-git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 217-module protection lab
+git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # your own 218-module protection lab
 ```
 
 ### 🕵️ [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT)
@@ -92,13 +102,11 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
-<a href="https://2mny.com"><img src="assets/2mny-globe-banner.jpg" width="820" alt="2MNY Security — free website security scanning platform · 2mny.com" /></a>
+<a href="https://2mny.com"><img src="assets/2mny-globe-banner.jpg" width="820" alt="2MNY Security — bug bounty platform and free website security scanning · 2mny.com" /></a>
 
 The full **317-module engine** with continuous attack monitoring, attack-surface diffing and
-redacted customer reporting — protecting teams that want the coverage without hosting it themselves.
-Run the free instant check at **[2mny.com](https://2mny.com)** — no signup needed.
-
----
+redacted customer reporting — plus a bug bounty platform — protecting teams that want the coverage
+without hosting it themselves. Run the free instant check at [**2mny.com**](https://2mny.com) — no signup needed.
 
 ### 🇧🇩 [Awesome Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh)
 **The curated map of Bangladesh's open source, open data and free APIs — community-built.**
@@ -107,7 +115,7 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 |---|---|
 | 📚 **What it is** | 380+ verified entries across 14 sections — datasets, Bangla NLP, fintech SDKs, civic tech, crisis-response and everyday apps |
 | ✅ **Evidence-first curation** | Every entry live-verified with licence + Bangladesh-connection evidence; no star counts, no fluff |
-| 📖 **Deep-dive guides** | 14 section handbooks with editor's picks, plus a [super-SEO showcase site](https://ranakhan77.github.io/Awesome-Bangladesh/) |
+| 📖 **Deep-dive guides** | 14 section handbooks with editor's picks, plus a [showcase site](https://ranakhan77.github.io/Awesome-Bangladesh/) |
 | 🤝 **Community-built** | Open contributions with a firm verification process — suggest, verify, correct |
 
 ⭐ *The national directory for Bangladeshi developers — built to connect the whole ecosystem.* — [explore the list →](https://github.com/RanaKhan77/Awesome-Bangladesh)
@@ -152,17 +160,17 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 <div align="center">
 
 ![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-317-00C853?style=for-the-badge)
-![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-217-2196F3?style=for-the-badge)
+![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-218-2196F3?style=for-the-badge)
 ![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1435-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
-<img height="170" src="assets/top-langs.svg" alt="Top languages" />
+<img height="170" src="assets/top-langs.svg" alt="Rana Khan — most used languages: PHP, Laravel, Python, Docker" />
 
 </div>
 
 ---
 
-## 🛡️ Principles
+## 🧭 Principles
 
 > **Deterministic beats probabilistic in security.** Same target → same findings, every run.
 > Evidence a CISO can defend in court — not "the model said so."
@@ -177,20 +185,25 @@ Run the free instant check at **[2mny.com](https://2mny.com)** — no signup nee
 
 <div align="center">
 
-### 🌱 Currently Building
+## 📡 Now
 
-The **317-module managed platform** at [2mny.com](https://2mny.com) — plus the next Community Edition batch.
-Questions or ideas? Use the [Community Discussions](https://github.com/RanaKhan77/Website-Vulnerability-Scanner/discussions).
+🔨 **Shipping** the next [Community Edition](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) batch — 218 modules and climbing <br>
+🛰️ **Growing [2mny.com](https://2mny.com)** — the 317-module bug bounty platform & commercial scanner <br>
+📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1435 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
+💬 Questions or ideas? → [Community Discussions](https://github.com/RanaKhan77/Website-Vulnerability-Scanner/discussions)
 
 ### 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/📧_Email-2MNY_Security-D14836?style=for-the-badge)](https://2mny.com/contact)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-ranakhan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ranakhan/)
 [![Report a Vuln](https://img.shields.io/badge/🐞_Report_a_Vulnerability-Responsible_Disclosure-8B0000?style=for-the-badge)](https://2mny.com/.well-known/security.txt)
 [![Community License](https://img.shields.io/badge/🔑_Free_License-Key_Instantly-00C853?style=for-the-badge)](https://2mny.com/community-license)
 
 &nbsp;
 
-**⭐ If my tools helped protect your site — star the repo, it keeps the mission funded. ⭐**
+**⭐ If my tools helped protect your site — a star keeps the mission moving. ⭐**
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting — let's build a safer web · Rana Khan · 2mny.com · LinkedIn /in/ranakhan" />
 
 <sub>Built with stubborn engineering discipline · 🇧🇩 Bangladesh → 🌍 A safer web for everyone</sub>
 
