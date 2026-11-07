@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120" role="img" aria-label="2MNY Security — managed protection platform, 317-module engine at 2mny.com">
+  <defs>
+    <pattern id="grid2" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 H 0 V 20" fill="none" stroke="#1a2333" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <linearGradient id="accent2" gradientUnits="userSpaceOnUse" x1="118" y1="60" x2="430" y2="60">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#00d9a6"/>
+    </linearGradient>
+    <linearGradient id="beamGrad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="flowGrad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d9a6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00d9a6" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#00d9a6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame2"><rect x="1" y="1" width="638" height="118" rx="11.5"/></clipPath>
+  </defs>
+
+  <!-- background + grid -->
+  <rect x="0.5" y="0.5" width="639" height="119" rx="12" fill="#0d1117" stroke="#293548" stroke-width="1"/>
+  <rect x="1" y="1" width="638" height="118" rx="11.5" fill="url(#grid2)"/>
+
+  <!-- sweeping scan beam -->
+  <g clip-path="url(#frame2)">
+    <rect x="0" y="1" width="70" height="118" fill="url(#beamGrad2)">
+      <animateTransform attributeName="transform" type="translate" from="-90 0" to="660 0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- viewfinder corner brackets -->
+  <g fill="none" stroke="#30363d" stroke-width="2" opacity="0.9">
+    <path d="M 20 32 V 26 Q 20 20 26 20 H 32"/>
+    <path d="M 608 20 H 614 Q 620 20 620 26 V 32"/>
+    <path d="M 20 88 V 94 Q 20 100 26 100 H 32"/>
+    <path d="M 620 88 V 94 Q 620 100 614 100 H 608"/>
+  </g>
+
+  <!-- shield with gentle pulse + ping ring -->
+  <g>
+    <circle cx="70" cy="59" r="28" fill="none" stroke="#00d9a6" stroke-width="1.5">
+      <animate attributeName="r" values="28;50" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M 70 26 L 94 35 V 56 C 94 72 84 84 70 92 C 56 84 46 72 46 56 V 35 Z" fill="#0f1520" stroke="#00d9a6" stroke-width="2">
+      <animate attributeName="opacity" values="1;0.72;1" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 58 60 L 67 70 L 84 50" fill="none" stroke="#00d9a6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- title + subtitle -->
+  <text x="118" y="58" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="1.5" fill="#e6edf3">2MNY Security</text>
+  <rect x="118" y="68" width="120" height="3" rx="1.5" fill="url(#accent2)"/>
+  <text x="118" y="90" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.5" fill="url(#accent2)">MANAGED PROTECTION PLATFORM</text>
+
+  <!-- live status chip -->
+  <rect x="486" y="42" width="120" height="36" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <circle cx="504" cy="60" r="4.5" fill="#00d9a6">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="516" y="65" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1" fill="#00d9a6">2mny.com</text>
+
+  <!-- data flow line -->
+  <line x1="40" y1="107" x2="600" y2="107" stroke="#21293a" stroke-width="1.5"/>
+  <g clip-path="url(#frame2)">
+    <rect x="-70" y="103.5" width="70" height="7" rx="3.5" fill="url(#flowGrad2)">
+      <animateTransform attributeName="transform" type="translate" from="-80 0" to="620 0" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

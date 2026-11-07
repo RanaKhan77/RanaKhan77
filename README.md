@@ -102,7 +102,7 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
-<a href="https://2mny.com"><img src="assets/2mny-globe-banner.jpg" width="820" alt="2MNY Security — bug bounty platform and free website security scanning · 2mny.com" /></a>
+<a href="https://2mny.com"><img src="assets/2mny-platform.svg" width="640" alt="2MNY Security — managed protection platform · 317-module engine · 2mny.com" /></a>
 
 The full **317-module engine** with continuous attack monitoring, attack-surface diffing and
 redacted customer reporting — plus a bug bounty platform — protecting teams that want the coverage
