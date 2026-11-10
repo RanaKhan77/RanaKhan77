@@ -62,13 +62,13 @@ git clone https://github.com/RanaKhan77/website-vulnerability-scanner.git   # yo
 
 | | |
 |---|---|
-| 🔎 **25 keyless sources** | Breach collections · infostealer logs · COMB 11B+ credentials · HIBP k-anonymity · 200-platform username grid |
+| 🔎 **26 keyless sources** | Breach collections · infostealer logs · COMB 11B+ credentials · HIBP k-anonymity · 200-platform username grid |
 | 🔑 **Zero API keys** | No accounts, no rate-limit roulette, no telemetry — one Docker command and it runs |
 | 🧠 **Zero AI, on purpose** | Deterministic three-state verdicts: exposed / clear / unavailable — a dead source never fakes a pass |
 | 🔐 **Privacy by design** | Salted hashes + masked identifiers only; password checks match in your browser (k-anonymity) |
 | 📄 **Evidence reports** | Printable per-source report with honest 0–100 exposure score — [live landing page →](https://ranakhan77.github.io/Exposure-Check-OSINT/) |
 | 📤 **Data out (v1.1)** | JSON + CSV export for every check · confidence-tiered username hits (confirmed vs probable) |
-| 🩺 **ec:doctor (v1.1)** | One-command install self-test: 25-source reachability, storage, database, migrations — seconds, zero network cost |
+| 🩺 **ec:doctor (v1.1)** | One-command install self-test: 26-source reachability, storage, database, migrations — seconds, zero network cost |
 
 ```bash
 git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what attackers already know
@@ -113,7 +113,7 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 
 | | |
 |---|---|
-| 📚 **What it is** | 380+ verified entries across 14 sections — datasets, Bangla NLP, fintech SDKs, civic tech, crisis-response and everyday apps |
+| 📚 **What it is** | 400+ verified entries across 14 sections — datasets, Bangla NLP, fintech SDKs, civic tech, crisis-response and everyday apps |
 | ✅ **Evidence-first curation** | Every entry live-verified with licence + Bangladesh-connection evidence; no star counts, no fluff |
 | 📖 **Deep-dive guides** | 14 section handbooks with editor's picks, plus a [showcase site](https://ranakhan77.github.io/Awesome-Bangladesh/) |
 | 🤝 **Community-built** | Open contributions with a firm verification process — suggest, verify, correct |
@@ -161,7 +161,7 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 
 ![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-317-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-218-2196F3?style=for-the-badge)
-![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1435-FF6F00?style=for-the-badge)
+![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1458-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
 <img height="170" src="assets/top-langs.svg" alt="Rana Khan — most used languages: PHP, Laravel, Python, Docker" />
@@ -189,7 +189,7 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 
 🔨 **Shipping** the next [Community Edition](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) batch — 218 modules and climbing <br>
 🛰️ **Growing [2mny.com](https://2mny.com)** — the 317-module bug bounty platform & commercial scanner <br>
-📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1435 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
+📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1458 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
 💬 Questions or ideas? → [Community Discussions](https://github.com/RanaKhan77/Website-Vulnerability-Scanner/discussions)
 
 ### 🤝 Let's Connect
