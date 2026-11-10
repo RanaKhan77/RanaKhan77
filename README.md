@@ -75,7 +75,7 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
-**A hand-curated, license-verified map of 1435 free cybersecurity protection tools — built for discovery.**
+**A hand-curated, license-verified map of 1458 free cybersecurity protection tools — built for discovery.**
 
 | | |
 |---|---|
