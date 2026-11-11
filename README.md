@@ -102,9 +102,9 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
-<a href="https://2mny.com"><img src="assets/2mny-platform.svg" width="100%" alt="2MNY Security — managed protection platform · 317-module engine · 2mny.com" /></a>
+<a href="https://2mny.com"><img src="assets/2mny-platform.svg" width="100%" alt="2MNY Security — managed protection platform · 328-module engine · 2mny.com" /></a>
 
-The full **317-module engine** with continuous attack monitoring, attack-surface diffing and
+The full **328-module engine** with continuous attack monitoring, attack-surface diffing and
 redacted customer reporting — plus a bug bounty platform — protecting teams that want the coverage
 without hosting it themselves. Run the free instant check at [**2mny.com**](https://2mny.com) — no signup needed.
 
