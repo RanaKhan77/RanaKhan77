@@ -161,7 +161,7 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 
 ![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-330-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-218-2196F3?style=for-the-badge)
-![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1484-FF6F00?style=for-the-badge)
+![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1413-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
 <img height="170" src="assets/top-langs.svg" alt="Rana Khan — most used languages: PHP, Laravel, Python, Docker" />
