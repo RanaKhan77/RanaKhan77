@@ -75,7 +75,7 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
-**A hand-curated, license-verified map of 1413 free cybersecurity protection tools — built for discovery.**
+**A hand-curated, license-verified map of 1421 free cybersecurity protection tools — built for discovery.**
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 
 ![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-330-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-218-2196F3?style=for-the-badge)
-![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1413-FF6F00?style=for-the-badge)
+![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1421-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
 <img height="170" src="assets/top-langs.svg" alt="Rana Khan — most used languages: PHP, Laravel, Python, Docker" />
@@ -188,8 +188,13 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 ## 📡 Now
 
 🔨 **Shipping** the next [Community Edition](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) batch — 218 modules and climbing <br>
+<<<<<<< HEAD
 🛰️ **Growing [2mny.com](https://2mny.com)** — the 330-module bug bounty platform & commercial scanner <br>
-📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1413 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
+📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1421 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
+=======
+🛰️ **Growing [2mny.com](https://2mny.com)** — the 317-module bug bounty platform & commercial scanner <br>
+📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1421 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
+>>>>>>> 15be2b4 (docs: heaven count 1458 -> 1421 to match the list itself)
 💬 Questions or ideas? → [Community Discussions](https://github.com/RanaKhan77/Website-Vulnerability-Scanner/discussions)
 
 ### 🤝 Let's Connect
