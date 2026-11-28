@@ -4,11 +4,11 @@
 
 # 👋 Rana Khan
 
-### 🛡️ Security Researcher · Bug Bounty Hunter · Founder of [2mny.com](https://2mny.com)
+### 🛡️ Security Researcher · Bug Bounty Hunter · Founder of [2m2mny.com](https://2mny.com)
 
 **I find weaknesses before attackers do.** I'm a security researcher from **Bangladesh 🇧🇩** hunting
-web vulnerabilities — and building the tools that make hunting repeatable: the **330-module bug bounty
-platform & commercial scanner** at [2mny.com](https://2mny.com), open-source scanners, and OSINT that
+web vulnerabilities — and building the tools that make hunting repeatable: the **333-module bug bounty
+platform & commercial scanner** at [2m2mny.com](https://2mny.com), open-source scanners, and OSINT that
 shows what attackers already know. Everything I build is defensive: detect it, prove it, fix it first.
 
 [![Website](https://img.shields.io/badge/🌐_2MNY_Security-2mny.com-00C853?style=for-the-badge)](https://2mny.com)
@@ -75,7 +75,7 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### ☁️ [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven)
-**A hand-curated, license-verified map of 1427 free cybersecurity protection tools — built for discovery.**
+**A hand-curated, license-verified map of 1485 free cybersecurity protection tools — built for discovery.**
 
 | | |
 |---|---|
@@ -102,9 +102,9 @@ git clone https://github.com/RanaKhan77/Exposure-Check-OSINT.git   # know what a
 ```
 
 ### 🌐 [2MNY Security](https://2mny.com) — the managed protection platform
-<a href="https://2mny.com"><img src="assets/2mny-platform.svg" width="100%" alt="2MNY Security — managed protection platform · 330-module engine · 2mny.com" /></a>
+<a href="https://2mny.com"><img src="assets/2mny-platform.svg" width="100%" alt="2MNY Security — managed protection platform · 333-module engine · 2mny.com" /></a>
 
-The full **330-module engine** with continuous attack monitoring, attack-surface diffing and
+The full **333-module engine** with continuous attack monitoring, attack-surface diffing and
 redacted customer reporting — plus a bug bounty platform — protecting teams that want the coverage
 without hosting it themselves. Run the free instant check at [**2mny.com**](https://2mny.com) — no signup needed.
 
@@ -159,9 +159,9 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 
 <div align="center">
 
-![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-330-00C853?style=for-the-badge)
+![Protection Modules Built](https://img.shields.io/badge/Protection_Modules_Built-333-00C853?style=for-the-badge)
 ![Open-Source Modules](https://img.shields.io/badge/Open--Source_Modules-218-2196F3?style=for-the-badge)
-![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1421-FF6F00?style=for-the-badge)
+![Tools_Curated](https://img.shields.io/badge/Tools_Curated-1485-FF6F00?style=for-the-badge)
 ![Free Forever](https://img.shields.io/badge/Free_Tier-Always_Available-00C853?style=for-the-badge)
 
 <img height="170" src="assets/top-langs.svg" alt="Rana Khan — most used languages: PHP, Laravel, Python, Docker" />
@@ -188,9 +188,8 @@ without hosting it themselves. Run the free instant check at [**2mny.com**](http
 ## 📡 Now
 
 🔨 **Shipping** the next [Community Edition](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) batch — 218 modules and climbing <br>
-🛰️ **Growing [2mny.com](https://2mny.com)** — the 330-module bug bounty platform & commercial scanner <br>
-📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1421 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
-📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1421 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
+🛰️ **Growing [2m2mny.com](https://2mny.com)** — the 333-module bug bounty platform & commercial scanner <br>
+📚 **Curating** [awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) (1485 tools) & [Awesome-Bangladesh](https://github.com/RanaKhan77/Awesome-Bangladesh) <br>
 💬 Questions or ideas? → [Community Discussions](https://github.com/RanaKhan77/Website-Vulnerability-Scanner/discussions)
 
 ### 🤝 Let's Connect
